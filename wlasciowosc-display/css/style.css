@@ -1,0 +1,19 @@
+#p1 {
+    background-color: red;
+}
+
+#p2 {
+    background-color: green;
+}
+
+div#elementy-linowe> :last-child {
+    background-color: yellow;
+}
+
+div#elementy-linowe span {
+    display: block;
+}
+
+#elementy-inline-block {
+    display: inline-block
+}
