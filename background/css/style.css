@@ -1,3 +1,11 @@
 #tlo-obrazek {
-    background-image: url(../img/anex-wozek-sport-2w1-czarny-zakard-czarna-eko-skora-sp13.2.jpg)
+    background-image: url(../img/anex-wozek-sport-2w1-czarny-zakard-czarna-eko-skora-sp13.2.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: contain;
+    
+    
+    
+
 }
