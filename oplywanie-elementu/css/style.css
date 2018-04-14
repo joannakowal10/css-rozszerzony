@@ -6,6 +6,10 @@
     float: right;
 }
 
-#truskawka {
+#truskawka1 {
     float: none;
+}
+
+p:last-child {
+    clear: right;
 }
